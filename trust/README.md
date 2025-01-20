@@ -19,6 +19,7 @@ The Trust Workgroup focuses on topics related to trust, reputation systems, and 
 - YikesawJezz (@yikesawjeez) - Shared key resources on decentralized governance 
 - Yuhki (@yuhki) - Proposed Eliza AI agent concept based on NFT use case
 - Wit (@wit) - Initiated paper gathering on reputation systems and digital trust
+- Amie (@Amiewitheliza) - Proposed the incentive mechanism and system design
 
 ## How to Get Involved
 - Contribute academic/non-academic papers on reputation systems, trust in society & digital environments  
